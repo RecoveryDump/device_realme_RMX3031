@@ -1,0 +1,7 @@
+#  start
+/cache/runtime.prop
+#  end
+# sysprop.txt start
+ro.product.first_api_level=33
+# sysprop.txt end
+
